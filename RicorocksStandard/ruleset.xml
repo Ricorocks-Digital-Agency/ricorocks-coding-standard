@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<ruleset name="RicorocksStandard">
+    <description>The Ricorocks Laravel Coding Standard.</description>
+</ruleset>
