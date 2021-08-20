@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace RicorocksStandard\Sniffs\Exceptions;
+namespace RicorocksStandard\Sniffs\Controllers;
 
 use RicorocksStandard\Sniffs\Suffixer;
 
